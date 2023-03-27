@@ -45,8 +45,8 @@ Save the final data set into the file
 
 PROGRAM:
 ~~~
-NAME:MANJUPRIYA.P
-REG NO:212220220024
+NAME:DEEPA.S
+REG NO:212220220008
 ~~~
 
 
